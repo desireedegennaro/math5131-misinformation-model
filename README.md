@@ -1,5 +1,6 @@
 # Modeling the Spread of Misinformation
-### MATH 5131 | Desiree DeGennaro | Northeastern University
+### MATH 5131 | Northeastern University
+📄 [Read the full paper](paper/DeGennaro_MisinformationModel.pdf)
 
 ## Overview
 This project builds a compartmental ODE model for how a false rumor spreads
